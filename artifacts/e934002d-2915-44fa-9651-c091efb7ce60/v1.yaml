@@ -4,7 +4,7 @@ name: log4j-core-2.25.0-cyclonedx.xml
 type: BOM
 createdDate: '2025-10-30T16:33:21Z'
 distributionIds:
-  - cc76b9b8-4b06-5a40-b63b-9fecaf9302e7
+  - 7a21d38a-c2d4-571e-8c9c-13c69f263323
 formats:
   - mediaType: application/vnd.cyclonedx+xml
     url: https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.25.0/log4j-core-2.25.0-cyclonedx.xml

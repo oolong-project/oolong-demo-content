@@ -6,13 +6,13 @@ releaseDate: '2025-10-28T22:49:57Z'
 preRelease: false
 identifiers: []
 distributions:
-  - distributionId: de8c9fc0-88e4-519a-afee-62d78580d5ab
+  - distributionId: c4572915-76b1-5f32-9319-4e68e2e2f26b
     description: Firmware update image, 1m variant (kauf-bulb-v1.95-update-1m.bin)
     url: https://github.com/KaufHA/kauf-rgbww-bulbs/releases/download/v1.95/kauf-bulb-v1.95-update-1m.bin
     checksums:
       - algType: SHA-256
         algValue: 485c14ae5d062e768406742ba9e7c18e30a5983bcd2537975c7d6f69acadba10
-  - distributionId: efed252e-0fca-5d56-ac10-37a97d6bffe4
+  - distributionId: 47e58a4e-a7b8-56ec-9a7f-aaf3df0e1702
     description: Firmware update image, 4m variant (kauf-bulb-v1.95-update-4m.bin)
     url: https://github.com/KaufHA/kauf-rgbww-bulbs/releases/download/v1.95/kauf-bulb-v1.95-update-4m.bin
     checksums:

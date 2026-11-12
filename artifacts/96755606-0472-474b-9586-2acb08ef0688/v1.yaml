@@ -4,7 +4,7 @@ name: log4j-api-2.25.1-cyclonedx.xml
 type: BOM
 createdDate: '2025-10-30T16:54:35Z'
 distributionIds:
-  - 2e845d37-6671-5a1d-b9f6-b578ac686f9d
+  - 9afbf624-ff8f-5d69-b350-fac8c0484fd5
 formats:
   - mediaType: application/vnd.cyclonedx+xml
     url: https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.25.1/log4j-api-2.25.1-cyclonedx.xml

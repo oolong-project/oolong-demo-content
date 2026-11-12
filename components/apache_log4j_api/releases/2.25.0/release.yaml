@@ -8,7 +8,7 @@ identifiers:
   - idType: PURL
     idValue: pkg:maven/org.apache.logging.log4j/log4j-api@2.25.0
 distributions:
-  - distributionId: a10e997c-7338-5e88-8493-6d8d6d817a41
+  - distributionId: 0e9bc3c7-5674-5b5d-bfce-ea83b02601b1
     description: Maven Central JAR (log4j-api-2.25.0.jar)
     identifiers:
       - idType: PURL

@@ -4,8 +4,8 @@ name: firmware_1_96_bom
 type: BOM
 createdDate: '2025-10-28T22:56:33Z'
 distributionIds:
-  - c93b291b-667b-505a-84b5-ba5716301388
-  - a2714729-3111-5205-b828-56117a54a798
+  - 7bc9eb54-301c-566d-bac7-277210625d08
+  - 4850a39c-d44b-5359-81e7-cca34efd9409
 formats:
   - mediaType: application/vnd.cyclonedx+json
     url: https://raw.githubusercontent.com/taleodor/kauf-bulb-boms/bb2b6202df5e0c8a67730da86aaf39fdd9e76c05/sbom.out.1.96.cdx.json
