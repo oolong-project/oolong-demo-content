@@ -1,0 +1,19 @@
+uuid: c86a159e-571a-4343-8176-0b958dc01b11
+component: 55082033-dc30-4a1a-a0a6-b6b03f938822
+version: 2.25.1
+createdDate: '2025-10-30T16:52:33Z'
+releaseDate: '2025-10-30T16:52:33Z'
+preRelease: false
+identifiers:
+  - idType: PURL
+    idValue: pkg:maven/org.apache.logging.log4j/log4j-api@2.25.1
+distributions:
+  - distributionId: 2e845d37-6671-5a1d-b9f6-b578ac686f9d
+    description: Maven Central JAR (log4j-api-2.25.1.jar)
+    identifiers:
+      - idType: PURL
+        idValue: pkg:maven/org.apache.logging.log4j/log4j-api@2.25.1?type=jar
+    url: https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.25.1/log4j-api-2.25.1.jar
+    checksums:
+      - algType: SHA-1
+        algValue: c7acbbd6f110cd1457c628da46245e355b1ee57a

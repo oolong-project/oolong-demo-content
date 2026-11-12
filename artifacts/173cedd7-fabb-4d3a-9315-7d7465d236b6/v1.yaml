@@ -1,0 +1,11 @@
+uuid: 173cedd7-fabb-4d3a-9315-7d7465d236b6
+version: 1
+name: BLF-10-1m-HBOM
+type: BOM
+createdDate: '2025-10-28T22:59:09Z'
+formats:
+  - mediaType: application/vnd.cyclonedx+json
+    url: https://raw.githubusercontent.com/taleodor/kauf-bulb-boms/bb2b6202df5e0c8a67730da86aaf39fdd9e76c05/blf10_hbom.json
+    checksums:
+      - algType: SHA-256
+        algValue: 0cd312c4aebb97d44b3019c2c2f98207e1a8eedf55bb5fbc7612402bed0da825

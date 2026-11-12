@@ -1,0 +1,13 @@
+uuid: a5ffb2e0-7588-48dd-9eba-5f2816edafca
+version: 1
+name: log4j-core-2.25.1-cyclonedx.xml
+type: BOM
+createdDate: '2025-10-30T16:46:52Z'
+distributionIds:
+  - 155c33cd-70bb-5a29-8126-713580918a28
+formats:
+  - mediaType: application/vnd.cyclonedx+xml
+    url: https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.25.1/log4j-core-2.25.1-cyclonedx.xml
+    checksums:
+      - algType: SHA-1
+        algValue: e3f610d788f5f9382337f7d71a106d22b0093822

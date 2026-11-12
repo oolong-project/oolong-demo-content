@@ -1,0 +1,9 @@
+version: 2
+createdDate: '2025-10-30T16:51:52Z'
+belongsTo: COMPONENT_RELEASE
+updateReason:
+  type: ARTIFACT_ADDED
+  comment: Added artifact 215880fb-02b8-4fd1-b471-2686de1a6b02
+artifacts:
+  - uuid: 215880fb-02b8-4fd1-b471-2686de1a6b02
+    version: 1

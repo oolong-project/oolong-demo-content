@@ -1,0 +1,16 @@
+uuid: ede6bf90-7494-42e0-9667-5a5e506f71ae
+product: 8ab3c557-7f36-4ebd-a593-026c28337630
+version: BLF10-4m-1.95
+createdDate: '2025-10-28T23:38:38Z'
+releaseDate: '2025-10-28T23:38:38Z'
+preRelease: false
+identifiers:
+  - idType: TEI
+    idValue: tei://oolong-demo.rearmhq.com/asin/B09D6HR559
+  - idType: TEI
+    idValue: tei://oolong-demo.rearmhq.com/uuid/ede6bf90-7494-42e0-9667-5a5e506f71ae
+components:
+  - uuid: 35218a8a-7e08-4502-8165-fa2b7a4a0b8a
+    release: fd327965-a46b-42a1-85ad-a31468100e2b
+  - uuid: adc0909a-3039-47eb-82ba-7686767c0d52
+    release: d914e304-386e-4a21-b26b-1da5bc558ba9

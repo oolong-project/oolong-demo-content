@@ -1,0 +1,16 @@
+uuid: 1f028faf-ebff-4e76-a667-587e5ffee57a
+product: d1a1163f-aa56-4187-b70c-0bd60063e297
+version: 2.25.0
+createdDate: '2025-10-30T17:02:03Z'
+releaseDate: '2025-10-30T17:02:03Z'
+preRelease: false
+identifiers:
+  - idType: TEI
+    idValue: tei://oolong-demo.rearmhq.com/uuid/bdfeded3-c55b-4610-8bc1-4238aebafdc6
+  - idType: TEI
+    idValue: tei://oolong-demo.rearmhq.com/purl/cGtnOm1hdmVuL29yZy5hcGFjaGUubG9nZ2luZy5sb2c0ai9sb2c0ai1jb3JlQDIuMjUuMA
+  - idType: TEI
+    idValue: tei://oolong-demo.rearmhq.com/purl/cGtnOm1hdmVuL29yZy5hcGFjaGUubG9nZ2luZy5sb2c0ai9sb2c0ai1jb3Jl
+components:
+  - uuid: 4c57f750-3202-4d93-ab75-abf1631720b8
+    release: bd1a00b1-b481-4362-9a3d-ae5e140edf82
