@@ -6,9 +6,9 @@ releaseDate: '2025-10-28T23:36:56Z'
 preRelease: false
 identifiers:
   - idType: TEI
-    idValue: tei://oolong-demo.rearmhq.com/asin/B09D6HR559
+    idValue: tei://oolong.demo.rearmhq.com/asin/B09D6HR559
   - idType: TEI
-    idValue: tei://oolong-demo.rearmhq.com/uuid/0cfaebcb-89d2-4d6f-8907-f3061c70726f
+    idValue: tei://oolong.demo.rearmhq.com/uuid/0cfaebcb-89d2-4d6f-8907-f3061c70726f
 components:
   - uuid: 35218a8a-7e08-4502-8165-fa2b7a4a0b8a
     release: ff742766-4925-4b97-871b-e3285b7f932a

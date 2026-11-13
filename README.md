@@ -36,24 +36,24 @@ Dates are UTC RFC 3339. Collections reference artifacts as `{uuid, version}`.
 
 ## Demo TEIs
 
-The TEIs use the domain `oolong-demo.rearmhq.com`. TEI discovery reads
-`https://oolong-demo.rearmhq.com/.well-known/tea`, so these resolve once the demo is served
+The TEIs use the domain `oolong.demo.rearmhq.com`. TEI discovery reads
+`https://oolong.demo.rearmhq.com/.well-known/tea`, so these resolve once the demo is served
 there. A `purl` TEI carries the Package URL Base64URL-encoded without padding, as TEA 1.0.0
 requires.
 
 | TEI | Resolves to |
 |---|---|
-| `tei://oolong-demo.rearmhq.com/uuid/9485fbc9-aa7d-4c26-95c9-d5a8ccb1c073` | Kauf Bulb BLF10-1m-1.95 |
-| `tei://oolong-demo.rearmhq.com/asin/B09D6HR559` | all four Kauf Bulb releases |
-| `tei://oolong-demo.rearmhq.com/uuid/ff08fa6a-1df9-4ab7-b3ec-e02837845a06` | Apache Log4j2 2.25.0 |
-| `tei://oolong-demo.rearmhq.com/purl/cGtnOm1hdmVuL29yZy5hcGFjaGUubG9nZ2luZy5sb2c0ai9sb2c0ai1jb3JlQDIuMjUuMA` (`pkg:maven/org.apache.logging.log4j/log4j-core@2.25.0`) | Apache Log4j2 Core 2.25.0 |
-| `tei://oolong-demo.rearmhq.com/purl/cGtnOmdpdGh1Yi9hcGFjaGUvbG9nZ2luZy1sb2c0ajI` (`pkg:github/apache/logging-log4j2`) | both Apache Log4j2 releases |
+| `tei://oolong.demo.rearmhq.com/uuid/9485fbc9-aa7d-4c26-95c9-d5a8ccb1c073` | Kauf Bulb BLF10-1m-1.95 |
+| `tei://oolong.demo.rearmhq.com/asin/B09D6HR559` | all four Kauf Bulb releases |
+| `tei://oolong.demo.rearmhq.com/uuid/ff08fa6a-1df9-4ab7-b3ec-e02837845a06` | Apache Log4j2 2.25.0 |
+| `tei://oolong.demo.rearmhq.com/purl/cGtnOm1hdmVuL29yZy5hcGFjaGUubG9nZ2luZy5sb2c0ai9sb2c0ai1jb3JlQDIuMjUuMA` (`pkg:maven/org.apache.logging.log4j/log4j-core@2.25.0`) | Apache Log4j2 Core 2.25.0 |
+| `tei://oolong.demo.rearmhq.com/purl/cGtnOmdpdGh1Yi9hcGFjaGUvbG9nZ2luZy1sb2c0ajI` (`pkg:github/apache/logging-log4j2`) | both Apache Log4j2 releases |
 
 With [ReARM CLI](https://github.com/relizaio/rearm-cli) 26.11.6 or later (TEA 1.0.0 client):
 
 ```bash
-rearm tea full_tea_flow --tei tei://oolong-demo.rearmhq.com/uuid/9485fbc9-aa7d-4c26-95c9-d5a8ccb1c073
-rearm tea full_tea_flow --tei tei://oolong-demo.rearmhq.com/asin/B09D6HR559
+rearm tea full_tea_flow --tei tei://oolong.demo.rearmhq.com/uuid/9485fbc9-aa7d-4c26-95c9-d5a8ccb1c073
+rearm tea full_tea_flow --tei tei://oolong.demo.rearmhq.com/asin/B09D6HR559
 ```
 
 A TEI that resolves to several product releases asks which one to show, so run it in a
