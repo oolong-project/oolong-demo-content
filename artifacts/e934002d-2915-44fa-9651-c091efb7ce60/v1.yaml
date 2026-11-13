@@ -8,6 +8,11 @@ distributionIds:
 formats:
   - mediaType: application/vnd.cyclonedx+xml
     url: https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.25.0/log4j-core-2.25.0-cyclonedx.xml
+    signatureUrl: https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.25.0/log4j-core-2.25.0-cyclonedx.xml.asc
     checksums:
+      - algType: SHA-256
+        algValue: 3303ceea9997b95e804ac00250268c8b39ae3c981631f0de294a94015dd49f7a
+      - algType: SHA-512
+        algValue: 5114336b1eab4ec2103f855255be19b2e44b830a9e64e20e03efde11ea1a7d202d0cff60926f37fea33326580406a7a7f2e7d44b2c35daf64938f90bd29c7b50
       - algType: SHA-1
         algValue: d14b4f4f2a2a3df35733df17fd49aa3c1fd0b398
