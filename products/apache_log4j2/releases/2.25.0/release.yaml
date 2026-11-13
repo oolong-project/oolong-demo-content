@@ -9,6 +9,8 @@ identifiers:
     idValue: tei://oolong.demo.rearmhq.com/uuid/ff08fa6a-1df9-4ab7-b3ec-e02837845a06
   - idType: TEI
     idValue: tei://oolong.demo.rearmhq.com/purl/cGtnOmdpdGh1Yi9hcGFjaGUvbG9nZ2luZy1sb2c0ajI
+  - idType: PURL
+    idValue: pkg:github/apache/logging-log4j2
 components:
   - uuid: 55082033-dc30-4a1a-a0a6-b6b03f938822
     release: 1e84e1ec-8555-4865-bb2a-1328909cdccd

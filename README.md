@@ -57,8 +57,18 @@ rearm tea full_tea_flow --tei tei://oolong.demo.rearmhq.com/asin/B09D6HR559
 ```
 
 A TEI that resolves to several product releases asks which one to show, so run it in a
-terminal. Discovery by PURL also works against the server directly, for example
-`/v1.0.0/discovery?purl=pkg:maven/org.apache.logging.log4j/log4j-core@2.25.0`.
+terminal.
+
+Discovery by PURL works against the server directly
+(`https://oolong.demo.rearmhq.com/v1.0.0/discovery?purl=<url-encoded PURL>`). The Log4j product
+releases carry each PURL from their `purl` TEIs as a `PURL` identifier too, so these resolve:
+
+| PURL | Resolves to |
+|---|---|
+| `pkg:maven/org.apache.logging.log4j/log4j-core@2.25.0` | Apache Log4j2 Core 2.25.0 |
+| `pkg:maven/org.apache.logging.log4j/log4j-core@2.25.1` | Apache Log4j2 Core 2.25.1 |
+| `pkg:maven/org.apache.logging.log4j/log4j-core` | both Apache Log4j2 Core releases |
+| `pkg:github/apache/logging-log4j2` | both Apache Log4j2 releases |
 
 ## Changes from the 2025-11 conference content
 
