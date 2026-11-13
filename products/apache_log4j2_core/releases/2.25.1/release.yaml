@@ -11,6 +11,10 @@ identifiers:
     idValue: tei://oolong.demo.rearmhq.com/purl/cGtnOm1hdmVuL29yZy5hcGFjaGUubG9nZ2luZy5sb2c0ai9sb2c0ai1jb3JlQDIuMjUuMQ
   - idType: TEI
     idValue: tei://oolong.demo.rearmhq.com/purl/cGtnOm1hdmVuL29yZy5hcGFjaGUubG9nZ2luZy5sb2c0ai9sb2c0ai1jb3Jl
+  - idType: PURL
+    idValue: pkg:maven/org.apache.logging.log4j/log4j-core@2.25.1
+  - idType: PURL
+    idValue: pkg:maven/org.apache.logging.log4j/log4j-core
 components:
   - uuid: 4c57f750-3202-4d93-ab75-abf1631720b8
     release: 21315439-c1f5-4f32-9de5-f08226543717
