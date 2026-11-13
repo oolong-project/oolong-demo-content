@@ -14,6 +14,11 @@ distributions:
       - idType: PURL
         idValue: pkg:maven/org.apache.logging.log4j/log4j-api@2.25.1?type=jar
     url: https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.25.1/log4j-api-2.25.1.jar
+    signatureUrl: https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.25.1/log4j-api-2.25.1.jar.asc
     checksums:
+      - algType: SHA-256
+        algValue: 20b9c77c0a9e54d1063a39e551dcaf98c7d8e7a4994648f84d0b9e14c71f7215
+      - algType: SHA-512
+        algValue: 0422500e4522ad2752f363758ff0abea55b73195cf38784328b9ed17f4b3356546923d6b7c67de4a6bbb8d54e42063e6df2f4548eb6136da99a0452437b20aae
       - algType: SHA-1
         algValue: c7acbbd6f110cd1457c628da46245e355b1ee57a
