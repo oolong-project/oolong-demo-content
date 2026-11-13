@@ -6,11 +6,11 @@ releaseDate: '2025-10-30T17:02:49Z'
 preRelease: false
 identifiers:
   - idType: TEI
-    idValue: tei://oolong-demo.rearmhq.com/uuid/56567fdf-202d-4ebc-b8ec-df68d2907320
+    idValue: tei://oolong.demo.rearmhq.com/uuid/56567fdf-202d-4ebc-b8ec-df68d2907320
   - idType: TEI
-    idValue: tei://oolong-demo.rearmhq.com/purl/cGtnOm1hdmVuL29yZy5hcGFjaGUubG9nZ2luZy5sb2c0ai9sb2c0ai1jb3JlQDIuMjUuMQ
+    idValue: tei://oolong.demo.rearmhq.com/purl/cGtnOm1hdmVuL29yZy5hcGFjaGUubG9nZ2luZy5sb2c0ai9sb2c0ai1jb3JlQDIuMjUuMQ
   - idType: TEI
-    idValue: tei://oolong-demo.rearmhq.com/purl/cGtnOm1hdmVuL29yZy5hcGFjaGUubG9nZ2luZy5sb2c0ai9sb2c0ai1jb3Jl
+    idValue: tei://oolong.demo.rearmhq.com/purl/cGtnOm1hdmVuL29yZy5hcGFjaGUubG9nZ2luZy5sb2c0ai9sb2c0ai1jb3Jl
 components:
   - uuid: 4c57f750-3202-4d93-ab75-abf1631720b8
     release: 21315439-c1f5-4f32-9de5-f08226543717
